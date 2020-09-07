@@ -9,7 +9,7 @@ Bash script, makes use of ffmpeg and automates the muxing process of transcoding
 - Download/Clone this repository to your machine <br>
 - Put your desired video file to be converted in the local directory <br>
 - Execute the bash script <br>
- ````` $ ./eac3mux.sh `````
+ ````` $ eac3mux.sh `````
  <br> 
 - Enter your filename with extension (use "\" for spaces) <br>
 - Hit enter, and the script will call ffmpeg and create "output.mp4" <br>
